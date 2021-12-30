@@ -19,4 +19,5 @@ void calibra(void )
 {
 	2ab  = 3_ab;
 }
+//   add gpio
 	  
