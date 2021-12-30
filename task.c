@@ -6,13 +6,17 @@
 
       _EXT_   char obu_channel
 
-      _EXT_   char obu_info
+      _EXT_   char obu_info2
 
-      _EXT_   char obu_mac
 	  
 	  
 	  int _2ab;
 	  int 2ab_;
 	  
 	  int 2_ab;
+	  int 3_ab;
+void calibra(void )
+{
+	2ab  = 3_ab;
+}
 	  
